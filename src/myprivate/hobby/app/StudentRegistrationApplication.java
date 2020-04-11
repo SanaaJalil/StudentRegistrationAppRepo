@@ -9,5 +9,6 @@ public class StudentRegistrationApplication {
 	 String registeredStudentName= studentService.displayName();
 	 System.out.println(registeredStudentName);
 	 System.out.println(studentService.displayName());
+	 System.out.println("Hobby Project");
  }
 }
